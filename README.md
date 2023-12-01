@@ -1,6 +1,11 @@
 # hidroponic-automation
-Monorepo for all code necessary to build the autonomous greenhouse.
+Repositório completo (incluindo front-end e back-end) do software para monitoramento e controle do sistema de cultivo hidropônico automatizado.\
+Este projeto foi desenvolvido como Trabalho de Conclusão de Curso do curso de Engenharia de Computação na Escola Politécnica da Universidade de São Paulo pelos alunos:
 
-# How to run
+- Brian Andrade Nunes
+- Marco Aurélio Condé Oliveira Prado
+- Silas Lima e Silva
 
-Clone this repository and follow the intructions for each part (frontend and backend) on their respective README's.
+## Como rodar
+1. Clone este repositório;
+2. Siga as instruções detalhadas para cada aplicação (front-end e back-end) nos READMEs disponíveis em suas respectivas pastas.
